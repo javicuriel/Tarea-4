@@ -2,7 +2,7 @@
 //  main.cpp
 //  Tarea-4
 //
-//  Created by Javier Curiel on 10/28/15.
+//  Created by Javier Curiel on 10/27/15.
 //  Copyright © 2015 Javier Curiel. All rights reserved.
 //
 
